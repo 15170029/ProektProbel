@@ -2,7 +2,7 @@ package ProektProbel.ProektProbel;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
-import junit.framework.TestSuite;
+import junit.framework.TestSuitedom;
 
 /**
  * Unit test for simple App.
