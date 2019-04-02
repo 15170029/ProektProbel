@@ -15,5 +15,5 @@ public class ProektProbel {
         }
         System.out.printf("Kolichestvo probelov: %d", p);
         in.close();
-    }   1111111
+    }   
 }
