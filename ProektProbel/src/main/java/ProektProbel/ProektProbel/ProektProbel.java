@@ -13,7 +13,7 @@ public class ProektProbel {
         for(char i : stroka.toCharArray()){
             if(i == ' ') p++;
         }
-        System.out.printf("Kolichestvo probelov: %d", p);
+        System.out.printf("Kolichessstvo probelov: %d", p);
         in.close();
     }   
 }
