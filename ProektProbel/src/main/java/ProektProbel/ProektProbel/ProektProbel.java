@@ -1,4 +1,4 @@
-package ProektProbel.ProektProbel;
+package ProektProbell.ProektProbel;
 
 import java.util.Scanner;
 
