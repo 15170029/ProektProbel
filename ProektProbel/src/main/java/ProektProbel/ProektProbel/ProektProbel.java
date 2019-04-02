@@ -8,7 +8,7 @@ public class ProektProbel {
        
         Scanner in = new Scanner(System.in);
         System.out.print("Input string: ");
-        String stroka = in.nextLine();
+        String stroka111 = in.nextLine();
         int p=0;
         for(char i : stroka.toCharArray()){
             if(i == ' ') p++;
